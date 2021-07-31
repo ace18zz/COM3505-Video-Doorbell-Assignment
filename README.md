@@ -35,7 +35,7 @@ Principle of the procedure:
 
 Connect the Arduino to the computer via USB
 
-![Image](Circuit%20wiring.png)
+![Image](image/Circuit%20wiring.png)
 
 ## Installation
 
@@ -61,11 +61,11 @@ Step 3: Click Upload<br>
 4. Enter the URL in your browser to join the website and click Start Stream to display the web video stream normally
 [Demo Video](https://youtu.be/z8LxL-7Nnn4)(YouTube)
 ## Details
-![Image](ESP32.jpeg)
+![Image](image/ESP32.jpeg)
 
-![Image](wires.jpeg)
+![Image](image/wires.jpeg)
 
-![Image](ardunio.jpeg)
+![Image](image/ardunio.jpeg)
 
 
 ## Upgrade suggestions
